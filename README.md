@@ -110,3 +110,16 @@ First public release: **March 2026**
 If you would like to cite this work, please use:
 
 **Guo, Kang.** *Origin Theory: A Structural Hypothesis on the Minimal Conditions for Civilization.* Version 1.0, 2026. GitHub repository: `origin-theory`.
+
+
+## BibTeX
+
+```bibtex
+@misc{guokang2026origin,
+  author = {Guo, Kang},
+  title = {Origin Theory: A Structural Hypothesis on the Minimal Conditions for Civilization},
+  year = {2026},
+  version = {1.0},
+  publisher = {GitHub},
+  url = {https://github.com/miao1xing/origin-theory}
+}
