@@ -61,14 +61,16 @@ Rather than describing the full historical form of any specific civilization, Or
 
 ---
 
-## Keywords
+## Citation
 
-* Civilization theory
-* Origin point
-* Structural stability
-* Civilization dynamics
-* Complex systems
+If you use or reference this work, please cite it as:
 
+Kang, G. (2026). *Origin Point Theory: A Structural Hypothesis on the Origin and Stability of Civilizations* (Version 1.0). GitHub.  
+https://github.com/miao1xing/origin-theory
+
+### BibTeX
+
+```bibtex
 @misc{kang2026originpoint,
   author = {Kang, Guo},
   title = {Origin Point Theory: A Structural Hypothesis on the Origin and Stability of Civilizations},
