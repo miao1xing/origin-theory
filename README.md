@@ -1,6 +1,6 @@
 # Origin Point Theory
 
-起源学（Origin Point Theory）
+起源学（Origin Point Theory)
 
 A structural hypothesis on the origin and stability of civilizations.
 
@@ -19,7 +19,7 @@ https://orcid.org/0009-0000-0281-169X
 ## Version
 
 Version 1.0
-2026
+March 2026
 
 ---
 
@@ -31,7 +31,7 @@ Rather than describing the full historical form of any specific civilization, th
 
 **What is the minimal structural condition required for a civilization to form and remain stable?**
 
-This work suggests that the concept of an **Origin Point** represents the minimal structural core required for the establishment, maintenance, and continuation of a civilization.
+This work argues that the concept of an **Origin Point** represents the minimal structural core required for the establishment, maintenance, and continuation of a civilization.
 
 ---
 
@@ -39,7 +39,7 @@ This work suggests that the concept of an **Origin Point** represents the minima
 
 PDF
 
-* origin-theory-v1.0.pdf
+* [origin-theory-v1.0.pdf](./origin-theory-v1.0.pdf)
 
 Online Article
 
@@ -59,10 +59,12 @@ Rather than describing the full historical form of any specific civilization, Or
 
 **What minimal structural condition allows a civilization to exist and remain stable?**
 
-Keywords
+---
 
-Civilization theory
-Origin point
-Structural stability
-Civilization dynamics
-Complex systems
+## Keywords
+
+* Civilization theory
+* Origin point
+* Structural stability
+* Civilization dynamics
+* Complex systems
