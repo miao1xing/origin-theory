@@ -11,6 +11,14 @@ for civilization to form and remain stable.
 核心结构：
 Origin = Boundary + Judgement + Correction
 
+
+## Citation
+
+If you would like to cite this work, please use:
+
+**Guo, Kang.** *Origin Theory: A Structural Hypothesis on the Minimal Conditions for Civilization.* Version 1.0, 2026. GitHub repository: `origin-theory`.
+
+
 📄 Full Paper: origin-theory-v1.0.pdf
 
 
