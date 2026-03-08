@@ -68,3 +68,12 @@ Rather than describing the full historical form of any specific civilization, Or
 * Structural stability
 * Civilization dynamics
 * Complex systems
+
+@misc{kang2026originpoint,
+  author = {Kang, Guo},
+  title = {Origin Point Theory: A Structural Hypothesis on the Origin and Stability of Civilizations},
+  year = {2026},
+  version = {1.0},
+  publisher = {GitHub},
+  url = {https://github.com/miao1xing/origin-theory}
+}
