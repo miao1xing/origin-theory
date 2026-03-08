@@ -1,4 +1,4 @@
-# origin-theory
+<img width="2043" height="1173" alt="image" src="https://github.com/user-attachments/assets/7534bdb3-82e4-489c-acc4-0b87a6e997d6" /># origin-theory
 起源理论（Origin Theory）
 
 起源理论提出了一种结构假说，
@@ -12,3 +12,10 @@ for civilization to form and remain stable.
 Origin = Boundary + Judgement + Correction
 
 📄 Full Paper: origin-theory-v1.0.pdf
+
+
+## Citation
+
+If you would like to cite this work, please use:
+
+**Guo, Kang.** *Origin Theory: A Structural Hypothesis on the Minimal Conditions for Civilization.* Version 1.0, 2026. GitHub repository: `origin-theory`.
