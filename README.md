@@ -10,3 +10,5 @@ for civilization to form and remain stable.
 
 核心结构：
 Origin = Boundary + Judgement + Correction
+
+📄 Full Paper: origin-theory-v1.0.pdf
