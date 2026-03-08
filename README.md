@@ -61,6 +61,15 @@ Rather than describing the full historical form of any specific civilization, Or
 
 ---
 
+## Keywords
+
+* Civilization theory
+* Origin point
+* Structural stability
+* Civilization dynamics
+* Complex systems
+
+
 ## Citation
 
 If you use or reference this work, please cite it as:
