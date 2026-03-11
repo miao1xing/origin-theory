@@ -1,95 +1,28 @@
-# Origin Point Theory
+# 起源理论
 
-起源学（Origin Point Theory)
+《文明成立假说：原点学》公开仓库。
 
-A structural hypothesis on the origin and stability of civilizations.
+本仓库用于存放《文明成立假说：原点学》各版本文本、相关声明文件与后续修订内容。
 
----
+## 当前版本
+- 《文明成立假说：原点学》Version 3.0-2026
 
-## Author
+## 仓库内容
+- 正式发布版本 PDF
+- 历史版本文件
+- 引用信息
+- 相关说明与声明文件
 
-Guo Kang
-Independent Researcher
+## 简介
+起源理论，旨在讨论文明成立所需的最低结构条件。  
+《文明成立假说：原点学》尝试以“原点”为核心，讨论边界、判断、校正、稳定、升级、循环，以及个体与整体之间的结构关系。
 
-ORCID
-https://orcid.org/0009-0000-0281-169X
+## 引用
+引用本仓库内容时，请注明作者、作品名与版本号。
 
----
+示例：
+郭康，《文明成立假说：原点学》，Version 3.0，2026。
 
-## Version
-
-Version 1.0
-March 2026
-
-Version 2.0
-March 2026.3.9
-
-Version 3.0
-March 2026.3.11
-
-
-## Abstract
-
-The Origin Point Theory proposes a structural hypothesis for understanding how civilizations emerge, stabilize, and collapse.
-
-Rather than describing the full historical form of any specific civilization, the theory attempts to answer a more fundamental question:
-
-**What is the minimal structural condition required for a civilization to form and remain stable?**
-
-This work argues that the concept of an **Origin Point** represents the minimal structural core required for the establishment, maintenance, and continuation of a civilization.
-
----
-
-## Full Paper
-
-PDF
-
-* [origin-theory-v1.0.pdf](./origin-theory-v1.0.pdf)
-
-Online Article
-
-https://zhuanlan.zhihu.com/p/2014066638249534453
-
----
-
-## Introduction
-
-起源理论并不试图直接描述某一具体文明的全部历史形态，而是试图回答一个更基础的问题：
-
-**一个文明若要形成并保持稳定，最低需要什么结构条件。**
-
-本理论提出，“起源（Origin）”是文明得以成立、维持与延续的最低结构核心。
-
-Rather than describing the full historical form of any specific civilization, Origin Theory addresses a more fundamental question:
-
-**What minimal structural condition allows a civilization to exist and remain stable?**
-
----
-
-## Keywords
-
-* Civilization theory
-* Origin point
-* Structural stability
-* Civilization dynamics
-* Complex systems
-
-
-## Citation
-
-If you use or reference this work, please cite it as:
-
-Kang, G. (2026). *Origin Point Theory: A Structural Hypothesis on the Origin and Stability of Civilizations* (Version 1.0). GitHub.  
-https://github.com/miao1xing/origin-theory
-
-### BibTeX
-
-```bibtex
-@misc{kang2026originpoint,
-  author = {Kang, Guo},
-  title = {Origin Point Theory: A Structural Hypothesis on the Origin and Stability of Civilizations},
-  year = {2026},
-  version = {1.0},
-  publisher = {GitHub},
-  url = {https://github.com/miao1xing/origin-theory}
-}
+## 说明
+本仓库为公开存档仓库。  
+后续若有修订，将以新版本形式继续更新。
